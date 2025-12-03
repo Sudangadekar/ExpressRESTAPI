@@ -1,7 +1,12 @@
 This is readme.md file but we used it for result
 
+Step to run 
+1. Clone project and run npm i 
+2. Config DB URI and PORT in .env
+3. Start server (npm start)
 
-Result
+
+#### Result ####
 1.Register
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/28531225-c991-4cb8-8a67-1397acfb132a" />
 
